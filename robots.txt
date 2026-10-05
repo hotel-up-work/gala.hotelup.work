@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gala.webart.work/sitemap.xml
+Sitemap: https://gala.hotelup.work/sitemap.xml
